@@ -1,7 +1,7 @@
 const apiUrl = "https://random.dog/woof.json";
 
 const showDog = ({ url }) => {
-  const image = document.getElementsByClassName("image");
+  const image = document.querySelector(".image");
   image.src = url;
 };
 
