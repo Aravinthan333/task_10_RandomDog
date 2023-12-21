@@ -1,0 +1,18 @@
+body {
+  margin: 10px;
+  padding: 10px;
+}
+img {
+  height: 300px;
+  width: 400px;
+  object-fit: contain;
+}
+button {
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+h1 {
+  margin: 20px;
+}
